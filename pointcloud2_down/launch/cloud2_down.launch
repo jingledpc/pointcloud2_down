@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="pointcloud2_down" name="pointcloud_down_node" type="pointcloud_down_node">
+    </node>
+
+</launch>
