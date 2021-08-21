@@ -1,5 +1,13 @@
 <launch>
     <node pkg="pointcloud2_down" name="pointcloud_down_node" type="pointcloud_down_node">
+        <param name="topicSubPcl" value="/velodyne_points"/>
+    	<param name="topicPubPcl" value="stairs_cloud"/>
+    	<param name="x_trans" value="0." type="double"/>
+    	<param name="y_trans" value="0." type="double"/>
+    	<param name="z_trans" value="0.65" type="double"/>
+    	<param name="theta_x" value="0.0"  type="double"/>
+    	<param name="theta_y" value="0.0"  type="double"/>
+    	<param name="theta_z" value="0.0" type="double" />
     </node>
 
 </launch>

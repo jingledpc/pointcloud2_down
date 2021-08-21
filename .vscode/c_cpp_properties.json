@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/pc/ros_workspace/other/draw_box/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/deal_order/deal_order/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/depth2cloud/depth2cloud/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/lib/kdtree/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/LeGO-LOAM-BOR/LeGO-LOAM/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/stairs_detection_rgb/line_lbd/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/lib/minkindr/minkindr/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/lib/minkindr_ros/minkindr_conversions/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/move_follow_wall/move_follow_wall/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/move_for_find_stair/move_to_find_stair/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/move_in_pain/move_in_pain/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/move_in_stair/move_in_stair/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/lib/octomap_rviz_plugins/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/lib/octomap_mapping/octomap_server/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/volumetric_mapping/octomap_world/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/pointcloud2_down/pointcloud2_down/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/stairs_detection_for_car/stairs_detection/include/**",
+        "/home/pc/ros_workspace/other/draw_box/src/volumetric_mapping/volumetric_map_base/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
